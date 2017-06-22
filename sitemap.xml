@@ -1,39 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
-  <url>
-    <loc>http://yoursite.com/%E4%BD%B3%E9%A4%9A/%E5%90%9B.html</loc>
-    
-    <lastmod>2017-06-19T04:11:44.090Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/06/19/%E8%A9%A9%E8%A9%9E%E7%AC%AC%E4%B8%80/</loc>
-    
-    <lastmod>2017-06-19T04:11:43.433Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/%E4%BD%B3%E9%A4%9A/index.html</loc>
-    
-    <lastmod>2017-06-19T03:19:35.979Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/06/19/%E7%BE%8E%E5%91%B3%E4%BD%B3%E8%82%B4/</loc>
-    
-    <lastmod>2017-06-19T03:18:28.379Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://yoursite.com/2017/06/19/%E7%AC%AC%E4%B8%80%E7%AF%87/</loc>
-    
-    <lastmod>2017-06-19T03:17:25.492Z</lastmod>
-    
-  </url>
-  
 </urlset>
